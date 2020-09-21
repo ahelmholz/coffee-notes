@@ -1,4 +1,7 @@
 node_modules
 build
 opt
-
+.next
+built-functions
+.DS_Store
+serviceAccountKey.json

@@ -1,0 +1,20 @@
+{
+  "name": "coffee_notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coffeeNotes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "netlify",
+    "serverless",
+    "js",
+    "apollo"
+  ],
+  "author": "Netlify",
+  "license": "",
+  "dependencies": {
+    "firebase-admin": "^9.2.0"
+  }
+}
